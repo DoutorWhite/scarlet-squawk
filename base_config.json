@@ -1,0 +1,24 @@
+{
+	"bot": {
+		"prefix": "!",
+		"token": "TOKEN DO BOT",
+		"whitelist":
+		{
+			"roles": [
+				1,
+				2,
+				3
+			],
+			"users": [
+				1,
+				2,
+				3
+			]
+		}
+	},
+	"watchdog": {
+		"host": "http://localhost:5000",
+		"instance": "NOME DA INSTANCIA",
+		"token": "TOKEN DO WATCHDOG"	
+	}
+}
